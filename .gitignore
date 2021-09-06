@@ -1,0 +1,9 @@
+# Compiled source
+dist
+
+# Development files
+.env
+package-lock.json
+
+# Dependencies
+node_modules
